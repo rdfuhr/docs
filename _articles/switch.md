@@ -143,7 +143,7 @@ Many communication programs are available for both operating systems.  [Skype](h
 
 ## Working With Images
 
-Ubuntu has several powerful image manipulation programs.  [Gimp](https://www.gimp.org), [darktable](http://www.darktable.org/), and [Inkskape](https://inkscape.org/en/) will do what [Adobe](https://www.adobe.com/) products can.  Plus, they are free, which is a huge bonus.  Adobe products don't currently run on Ubuntu but there are plenty of replacement software options.
+Ubuntu has several powerful image manipulation programs.  [Gimp](https://www.gimp.org), [darktable](http://www.darktable.org/), and [Inkscape](https://inkscape.org/en/) will do what [Adobe](https://www.adobe.com/) products can.  Plus, they are free, which is a huge bonus.  Adobe products don't currently run on Ubuntu but there are plenty of replacement software options.
 
 ![apple-images](/images/switch/apple-images.png)
 
@@ -163,7 +163,7 @@ Ubuntu has several powerful image manipulation programs.  [Gimp](https://www.gim
 
 ## Managing Music
 
-[Spotify](https://www.spotify.com/) is fully support in the Ubuntu operating system, along with other web based players such as [Pandora](https://www.pandora.com/) and [Google Music](https://play.google.com/music/listen).  Ubuntu also comes with [Rythmbox](https://wiki.gnome.org/Apps/Rhythmbox) which is a replacement for [Apple iTunes](https://www.apple.com/itunes/), and [Clementine](https://www.clementine-player.org) is another open source, cross platform tool that provides an awesome music library experience.  Although iTunes doesn't run on Ubuntu, music libraries can be moved.  Several programs are available for music editing, mixing, and DJ-ing as well, including [Audacity](http://www.audacityteam.org/), [Mixxx](https://www.mixxx.org/), and [Ardour](https://ardour.org).
+[Spotify](https://www.spotify.com/) is fully supported in the Ubuntu operating system, along with other web based players such as [Pandora](https://www.pandora.com/) and [Google Music](https://play.google.com/music/listen).  Ubuntu also comes with [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) which is a replacement for [Apple iTunes](https://www.apple.com/itunes/), and [Clementine](https://www.clementine-player.org) is another open source, cross platform tool that provides an awesome music library experience.  Although iTunes doesn't run on Ubuntu, music libraries can be moved.  Several programs are available for music editing, mixing, and DJ-ing as well, including [Audacity](http://www.audacityteam.org/), [Mixxx](https://www.mixxx.org/), and [Ardour](https://ardour.org).
 
 ![apple-music](/images/switch/apple-music.png)
 
